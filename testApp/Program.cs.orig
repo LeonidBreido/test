@@ -10,12 +10,14 @@ namespace testApp
     {
         static void Main(string[] args)
         {
-<<<<<<< HEAD
+            // it is LW content
             // it is RW content
             // it is RW content #2
+<<<<<<< HEAD
+            // very special text
 =======
-            // it is LW content
->>>>>>> LW
+            // bug1
+>>>>>>> Bug1
         }
     }
 }
