@@ -1,0 +1,13 @@
+testApp/App.config
+testApp/bin/Debug/testApp.exe.config
+testApp/bin/Debug/testApp.vshost.exe
+testApp/bin/Debug/testApp.vshost.exe.config
+testApp/bin/Debug/testApp.vshost.exe.manifest
+testApp/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+testApp/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+testApp/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+testApp/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+testApp/obj/Debug/testApp.csproj.FileListAbsolute.txt
+testApp/testApp.csproj
+testApp/testApp.sln
+testApp/testApp.v12.suo
